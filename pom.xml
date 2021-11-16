@@ -62,6 +62,7 @@
     <module>optaweb-employee-rostering-docs</module>
     <module>optaweb-employee-rostering-distribution</module>
     <module>optaweb-employee-rostering-standalone</module>
+    <module>ortools-employee-rostering-solver</module>
   </modules>
 
   <dependencyManagement>
